@@ -1,44 +1,43 @@
-# 🥚 Yumurta Zamanlayıcı Uygulaması
+# 🥚 Yumurta Zamanlayıcı - Android Uygulaması (Kotlin)
 
-Bu proje, üniversite dönem içi uygulaması kapsamında geliştirilmiş basit bir yumurta zamanlayıcıdır.  
-Yumurtanın boyutuna göre pişirme süresini hesaplayarak kullanıcıya yardımcı olur.  
-Tamamen eğitim amaçlıdır.
+Bu proje, üniversite dönem içi uygulaması kapsamında geliştirilmiş, Kotlin ile yazılmış bir Android yumurta zamanlayıcı uygulamasıdır.  
+Yumurtanın boyutuna göre pişirme süresini ayarlayarak kullanıcıya pratik bir pişirme deneyimi sunar.
 
-Uygulamayı çalıştırdığınızda hata vermesi durumunda dosya adını YumurtaZamanlaycs yapınız.
+Uyarı: Kodu çalıştırdığınızda hata vermesi durumunda dosya adını "YumurtaZamanlaycs" olarak değiştirin.
 
 ---
 
 ## 🧾 Proje Hakkında
 
-Kullanıcı, yumurtanın boyutunu (örneğin: Küçük - S, Orta - M, Büyük - L) seçer ve uygulama buna göre uygun pişirme süresini ayarlar.  
-Örneğin:  
+Kullanıcı, yumurtanın boyutunu (örneğin: Küçük - S, Orta - M, Büyük - L) seçer ve uygulama buna göre uygun pişirme süresini başlatır.  
+Örnek süreler:  
 - M (Orta) boyut için yaklaşık 2 dakika  
 - L (Büyük) boyut için yaklaşık 2.5 dakika  
 
-Uygulama, basit ve kullanıcı dostu bir arayüzle zamanlayıcı işlevini gerçekleştirir.
+Uygulama, Android cihazlarda çalışan, kullanıcı dostu ve pratik bir zamanlayıcıdır.
 
 ---
 
 ## ⚙️ Kullanılan Teknolojiler
 
-- C#  
-- Windows Forms  
-- .NET Framework / .NET  
+- Kotlin  
+- Android Studio  
+- Android SDK  
 
 ---
 
 ## ✨ Uygulama Özellikleri
 
 - Yumurtanın boyutuna göre farklı pişirme süreleri  
-- Kolay ve hızlı zamanlayıcı başlatma  
-- Kullanıcı dostu grafiksel arayüz  
-- Zamanlayıcı bitiminde uyarı bildirimi  
+- Basit ve kullanımı kolay arayüz  
+- Zamanlayıcı çalıştırma ve bitiminde bildirim  
+- Android cihazlarda APK olarak çalışır  
 
 ---
 
-## 📁 Kurulum
+## 📁 Kurulum ve Çalıştırma
 
-Projeyi kendi bilgisayarınızda çalıştırmak için:
+Projeyi klonlayıp Android Studio'da açarak APK'yı oluşturabilir ve cihazınızda test edebilirsiniz:
 
 ```bash
-git clone https://github.com/ahmetkavl/YumurtaZamanlaycs.git
+git clone https://github.com/ahmetkavl/YumurtaZamanlayici.git
