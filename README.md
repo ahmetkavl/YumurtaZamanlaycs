@@ -40,4 +40,4 @@ Uygulama, Android cihazlarda çalışan, kullanıcı dostu ve pratik bir zamanla
 Projeyi klonlayıp Android Studio'da açarak APK'yı oluşturabilir ve cihazınızda test edebilirsiniz:
 
 ```bash
-git clone https://github.com/ahmetkavl/YumurtaZamanlayici.git
+git clone https://github.com/ahmetkavl/YumurtaZamanlaycs.git
